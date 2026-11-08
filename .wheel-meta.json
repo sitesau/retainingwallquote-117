@@ -1,0 +1,22 @@
+{
+  "wheel_id": 805,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-117",
+  "project": "retaining-wall-quotes-timeline-a7709ac57b4b30adbc5a99d85f44b775",
+  "parent_t1_ref": "retainingwallquote-158",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes timeline",
+  "intended_url": "https://sitesau.github.io/retainingwallquote-117/",
+  "tier": "T2",
+  "writeback_nonce": "9662eb3c572db284",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-quotes-signs-you-need-e1150ca6720a5bf13fabed1ddc/",
+      "anchor": "Retaining Wall Quotes Signs You Need: Signs You Need One",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
